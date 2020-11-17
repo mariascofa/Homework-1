@@ -22,7 +22,7 @@ for _ in range (max-min):
     pt1.show()
     pt1.move()
 
-print ("1st commit-dev")
+print ("1st commit-dev-53")
 
 print ("2nd commit-dev")
 

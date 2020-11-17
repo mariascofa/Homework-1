@@ -24,7 +24,7 @@ for _ in range (max-min):
 
 print ("1st commit-dev-53-75")
 
-print ("2nd commit-dev-53")
+print ("2nd commit-dev-53-75")
 
 print ("3rd commit-dev-53")
 

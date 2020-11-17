@@ -22,5 +22,10 @@ for _ in range (max-min):
     pt1.show()
     pt1.move()
 
+print ("1st commit")
+print ("2nd commit")
+
+
+
 
 
